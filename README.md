@@ -21,14 +21,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joan-Abeldano&show_icons=true&theme=tokyonight)
 
 ---
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- ✉️ You can reach me here on GitHub!  
-
----
-⭐️ From [Joan](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Joan](https://github.com/Joan-Abeldano)
